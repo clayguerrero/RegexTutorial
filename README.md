@@ -15,7 +15,11 @@ This application is covered under the
 [MIT](https://choosealicense.com/licenses/mit/)
 liscense
 
-##
+## Images
+
+Completed Gist
+![gist](../RegexTutorial/Images/gistImg.PNG)
+
 
 ## External Sources
 
