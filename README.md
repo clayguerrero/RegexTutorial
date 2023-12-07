@@ -18,7 +18,8 @@ liscense
 ## Images
 
 Completed Gist
-![gist](../RegexTutorial/Images/gistImg.PNG)
+
+![gist](./Images/gistImg.PNG)
 
 
 ## External Sources
