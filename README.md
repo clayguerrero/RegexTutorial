@@ -17,7 +17,7 @@ liscense
 
 ##
 
-## sources
+## External Sources
 
 [Request Responce - Regular Expression Tutorial](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial)
 
